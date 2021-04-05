@@ -1,0 +1,9 @@
+c:\users\abrahamyan\documents\visual studio 2015\Projects\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+c:\users\abrahamyan\documents\visual studio 2015\Projects\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+c:\users\abrahamyan\documents\visual studio 2015\Projects\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+c:\users\abrahamyan\documents\visual studio 2015\Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csprojResolveAssemblyReference.cache
+c:\users\abrahamyan\documents\visual studio 2015\Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.frmGuessNumber.resources
+c:\users\abrahamyan\documents\visual studio 2015\Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.Properties.Resources.resources
+c:\users\abrahamyan\documents\visual studio 2015\Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.GenerateResource.Cache
+c:\users\abrahamyan\documents\visual studio 2015\Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+c:\users\abrahamyan\documents\visual studio 2015\Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.pdb
